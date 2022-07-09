@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aditi Educational App</string>
+    <string name="home">home</string>
+    <string name="setting">setting</string>
+    <string name="question_1_3">Question 1 (/3)</string>
+    <string name="score_10_30">Score: 10/30</string>
+    <string name="duration_100">Duration: 100</string>
+    <string name="enter_your_answer">Enter your Answer</string>
+    <string name="answer">ANSWER</string>
+    <string name="play_again">PLAY AGAIN!</string>
+    <string name="todo">TODO</string>
+    <string name="play">PLAY</string>
+    <string name="select_a_level">SELECT A LEVEL</string>
+    <string name="setting_page">SETTING</string>
+    <string name="name">NAME</string>
+    <string name="level">LEVEL</string>
+    <string name="score">SCORE</string>
+    <string name="time">TIME</string>
+    <string name="date">DATE</string>
+
+    <string-array name="levels">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
